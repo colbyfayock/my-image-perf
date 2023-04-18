@@ -1,0 +1,64 @@
+@import "@/styles/settings/_settings";
+
+.homeContainer {
+  
+  text-align: center;
+
+  h1 {
+    font-size: 2em;
+  }
+
+}
+
+.form {
+
+  margin-top: 1.5em;
+}
+
+.input {
+  
+  font-size: 1.1em;
+  border: solid 2px $color-gray-medium;
+  padding: .8em 1em;
+  border-radius: 0;
+  outline: none;
+
+  &:focus {
+    border: solid 2px $color-blue-medium;
+  }
+
+}
+
+.button {
+  font-size: 1.1em;
+  margin-left: 1em;
+}
+
+.error {
+  color: $color-red;
+}
+
+.images {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.imagesRow {
+  
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2em;
+  margin-bottom: 4em;
+
+  img {
+    display: block;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+}
