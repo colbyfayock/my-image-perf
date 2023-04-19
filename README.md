@@ -1,13 +1,13 @@
-# Demo Image Perf Starter
+# Carbon Calculator for Website Images
 
-```
-yarn create next-app -e https://github.com/colbyfayock/demo-image-perf-starter
-# or
-npx create-next-app -e https://github.com/colbyfayock/demo-image-perf-starter
-```
+Demo for tutorial [YouTube](https://www.youtube.com/colbyfayock)
 
-## Deploy to Vercel
+📺 YouTube: https://www.youtube.com/colbyfayock
 
-Get started by deploying to [Vercel](https://vercel.com/ambassadors/colbyfayock).
+## More tutorials and walkthroughs
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fcolbyfayock%2Fdemo-image-perf-starter)
+🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
+
+📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+
+✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
