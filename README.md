@@ -1,8 +1,8 @@
 # Carbon Calculator for Website Images
 
-Demo for tutorial [YouTube](https://www.youtube.com/colbyfayock)
+Demo for tutorial [Scrape Images & Calculate Carbon with co2.js in Next.js](https://www.youtube.com/colbyfayock)
 
-📺 YouTube: https://www.youtube.com/colbyfayock
+📺 YouTube: https://www.youtube.com/watch?v=ascZiP2pMk8
 
 ## More tutorials and walkthroughs
 
